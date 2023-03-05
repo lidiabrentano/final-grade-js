@@ -20,17 +20,19 @@
 
 ## 📖 Concepts
 <strong>EN:</strong> Concepts:
-- Data structure with objects and array;
-- Repetition structure: "for - of";
-- Functions;
-- Comparative operators
+ - Data structure with objects and array;
+ - Repetition structure: "for - of";
+ - Functions;
+ - Comparative operators
 </br>
 ----
+
 <strong>PT-BR:</strong> Conceitos utilizados:
-- Estrutura de dados com objetos e array;
-- Estrutura de repetição: for - of;
-- Função;
-- Operadores comparativos;
+
+ - Estrutura de dados com objetos e array;
+ - Estrutura de repetição: for - of;
+ - Função;
+ - Operadores comparativos;
 
 </br>
 
