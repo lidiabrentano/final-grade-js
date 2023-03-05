@@ -25,7 +25,6 @@
  - Functions;
  - Comparative operators
 </br>
-----
 
 <strong>PT-BR:</strong> Conceitos utilizados:
 
